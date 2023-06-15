@@ -1,0 +1,45 @@
+{
+    "name": "client",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@nomicfoundation/hardhat-chai-matchers": "^2.0.1",
+        "@nomiclabs/hardhat-etherscan": "^3.1.7",
+        "@openzeppelin/contracts": "^4.9.1",
+        "@truffle/hdwallet-provider": "^1.7.0",
+        "cjs": "^0.0.11",
+        "dotenv": "^6.2.0",
+        "ethers": "^6.5.1",
+        "ipfs-mini": "^1.1.5",
+        "react": "16.11.0",
+        "react-dom": "16.11.0",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "3.2.0",
+        "semantic-ui-css": "^2.4.1",
+        "semantic-ui-react": "^2.0.3",
+        "web3": "^1.2.2", 
+        "ethereumjs-wallet": "^0.6.1",
+        "truffle-hdwallet-provider": "^0.0.6"
+    },
+    "scripts": {
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "start": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
+        "build": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
