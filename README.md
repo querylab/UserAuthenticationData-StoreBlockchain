@@ -21,7 +21,7 @@ $ truffle migrate --network sepolia
 
 ```
 
-<a href="https://imgur.com/X7zUf5d"><img src="https://i.imgur.com/X7zUf5d.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/hDf3u1h"><img src="https://i.imgur.com/hDf3u1h.gif" title="source: imgur.com" /></a>
 
 
 
@@ -36,7 +36,7 @@ npm start
 http://localhost:3000/
 
 ```
-<a href="https://imgur.com/OC8wpqV"><img src="https://i.imgur.com/OC8wpqV.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/g24KS5O"><img src="https://i.imgur.com/g24KS5O.gif" title="source: imgur.com" /></a>
 
 
 
